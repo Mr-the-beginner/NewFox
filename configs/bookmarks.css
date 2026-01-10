@@ -1,0 +1,24 @@
+/* Centring the icons of the bookmarks in the bar */
+
+personal-bookmarks,
+#PlacesToolbar,
+#PlacesToolbarItems {
+display: flex !important;
+justify-content: center !important;
+} /* Centers the Bookmark Bar */
+
+#PlacesToolbarItems > .bookmark-item > .toolbarbutton-text {
+display: none !important;
+} /* Hides the Bookmark Text */
+
+#PlacesToolbarItems > .bookmark-item > .toolbarbutton-icon {
+margin-inline: 0 !important;
+}
+/* Hides the Bookmark margin,Recently Bookmarked,toolbar */
+#bookmarksMenu,
+#BMB_bookmarksPopup,
+#BMB_bookmarksToolbar,
+#panelMenu_recentBookmarks,
+#panelMenu_bookmarksMenu {
+display: none !important;
+}

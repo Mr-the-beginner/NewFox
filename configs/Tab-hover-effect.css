@@ -1,0 +1,30 @@
+/* Active tab - default (no glow) */
+.tabbrowser-tab[selected="true"] {
+    box-shadow: none !important; /* no glow by default */
+    background-color: transparent !important;
+    color: white !important;
+    border-radius: 5px !important;
+    transition: box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+/* Active tab hover - green glow like red hover */
+.tabbrowser-tab[selected="true"]:hover {
+    box-shadow: 0 -2px 5px rgba(0, 255, 0, 0.9), 0 2px 5px rgba(0, 255, 0, 0.9) !important;
+    /* subtle top/bottom glow like red hover */
+    background-color: transparent !important;
+}
+
+/* Inactive tab - default */
+.tabbrowser-tab:not([selected]) {
+    box-shadow: none !important; /* no glow */
+    background-color: transparent !important;
+    color: rgba(255, 255, 255, 0.8) !important;
+    border-radius: 5px !important;
+    transition: box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+/* Inactive tab hover - red glow */
+.tabbrowser-tab:not([selected]):hover {
+    box-shadow: 0 -2px 5px rgba(255, 0, 0, 0.9), 0 2px 5px rgba(255, 0, 0, 0.9) !important;
+    background-color: transparent !important; /* keep it subtle */
+}

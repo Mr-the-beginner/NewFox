@@ -1,0 +1,19 @@
+@-moz-document url(chrome://browser/content/browser.xul), url(about:newtab), url(about:home), url(about:privatebrowsing)
+{
+    .top-site-outer:is(.active, :focus, :hover) .tile {
+        background: rgba(128, 128, 128, 1) !important;
+    }
+    .top-site-outer:is(.active, :focus, :hover) {
+        background: transparent !important;
+    }
+    .top-site-outer .tile {
+        background: rgba(128, 128, 128, 0.25) !important;
+    }
+    .top-sites-list:not(.dnd-active) .top-site-outer:is(.active, :focus, :hover) .tile {
+        box-shadow: 0 0 0 0 !important; /* remove any shadow */
+    }
+    /* Completely hide the small pin icon */
+    .icon.icon-pin-small {
+        display: none !important;
+    }
+}

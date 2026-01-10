@@ -1,0 +1,14 @@
+@import url("./configs/Tab-hover-effect.css");
+@import url("./configs/container-tab.css");
+/* @import url("./configs/title-bar-buttons.css"); */
+@import url("./configs/url-bar.css");
+@import url("./configs/Tabs.css");
+@import url("./configs/bookmarks.css");
+@import url("./configs/throbber.css");
+@import url("./configs/home-screen-pins.css");
+@import url("./configs/side-bar.css");
+@import url("./configs/screen.css");
+
+@import url("./icons/icons.css"); /*not mine*/
+@import url("./configs/navbar.css"); /*not mine*/
+@import url("./configs/general.css"); /*not mine*/

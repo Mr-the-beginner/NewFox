@@ -1,0 +1,23 @@
+/* color for container tab icon */
+
+tab[class*="identity-color-"] .tab-icon-stack .tab-icon-image,
+tab[class*="identity-color-"] hbox.tab-throbber {
+    outline: 2px solid var(--identity-icon-color) !important;
+    border-radius: 50% !important;
+}
+
+/* removing border tab color of container tab */
+
+tab[class*="identity-color-"] .tab-context-line {
+    background: none !important;
+    height: 0 !important;
+    border-radius: 0 !important;
+    margin: 0 !important;
+}
+
+/* color for container tab icon for websites without favicon */
+.tab-icon-image:not([src]),
+.tab-icon-image:-moz-broken {
+    display: unset !important; /* shows default icon when no favicon */
+    content: url("") !important; /* makes it a blank icon */
+}
