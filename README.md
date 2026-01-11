@@ -63,3 +63,8 @@ A minimal Firefox theme with userContent and userChrome.
 *  Night-Swamp.jpg is the Adobe Premiere pro's 2023 splash screen = https://www.behance.net/gallery/163378813/Adobe-Premiere-Pro-Splash-Screen-2023/modules/921508831
 
 </details>
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Mr-the-beginner/NewFox&type=Date)](https://star-history.com/#Mr-the-beginner/NewFox&Date)
