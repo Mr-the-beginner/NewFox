@@ -12,7 +12,8 @@ A minimal Firefox theme with userContent and userChrome.
 
 ##
 
-![Image](./README-Resources/ShowCase.png)
+![Image](<img width="1573" height="876" alt="ShowCase2" src="https://github.com/user-attachments/assets/08dc4129-83bb-4871-aa39-f21491afedb4" />
+)
 
 ##
 
