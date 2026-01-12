@@ -12,33 +12,16 @@ A minimal Firefox theme with userContent and userChrome.
 
 ##
 
-![Image](<img width="1573" height="876" alt="ShowCase2" src="https://github.com/user-attachments/assets/08dc4129-83bb-4871-aa39-f21491afedb4" />
-)
+![Image](./README-Resources/ShowCase2.png)
 
 ##
 
 >[!TIP]
 >From here you can also watch a short demo on the ![main features](./README-Resources/MainFeatures.md)
 
-<br/>
+##
 
-<details><summary>🚩 Release notes</summary>
-
-1.1.0:
-- Added the running Knight 
-- Added userChrome.js to apply javascript
-- Disabled some shortcuts that broke my layout (yeah instead of fixing the code i removed the firefox UI elements, call it a skill issue if you want 😇)
-
-1.0.0:
-- Based Theme
-
-<br/>
-
-</details>
-
-# Usage
-
-### Install
+### How to Install
 
 #### Step 1 - Download files
 
@@ -65,8 +48,25 @@ A minimal Firefox theme with userContent and userChrome.
 
 ##
 
+<details><summary>🚩 Release notes <i>[Click to expand]</i> 👇</summary>
+ 
+<br/>
+
+1.1.0:
+- Added the running Knight 
+- Added userChrome.js to apply javascript
+- Disabled some shortcuts that broke my layout (yeah instead of fixing the code i removed the firefox UI elements, call it a skill issue if you want 😇)
+
+1.0.0:
+- Based Theme
+
+</details>
+
+##
+
 > [!TIP] 
 >Enabling weather =>
+> 
 >In about:config make this true =
 >
 >browser.newtabpage.activity-stream.showWeather
@@ -78,8 +78,6 @@ A minimal Firefox theme with userContent and userChrome.
 >the pencil icon get shown up in the home screen,
 >
 > then toggled-on the weather widget then enable the file again (restore the file).
-
-##
 
 > [!CAUTION]
 > Now available at (https://firefoxcss-store.github.io/) . Just search for NewFox
