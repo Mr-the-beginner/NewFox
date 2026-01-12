@@ -71,8 +71,7 @@ A minimal Firefox theme with userContent and userChrome.
 >
 > privacy.userContext.enabled
 >
-> 
-toolkit.legacyUserProfileCustomizations.stylesheets
+> toolkit.legacyUserProfileCustomizations.stylesheets
 
 > [!NOTE]
 >Disable "personalize-button.css" in the configs (just delete the file) so
