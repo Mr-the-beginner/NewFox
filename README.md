@@ -69,8 +69,10 @@ A minimal Firefox theme with userContent and userChrome.
 > 
 >In about:config make this true =
 >
->browser.newtabpage.activity-stream.showWeather
-
+> privacy.userContext.enabled
+>
+> 
+toolkit.legacyUserProfileCustomizations.stylesheets
 
 > [!NOTE]
 >Disable "personalize-button.css" in the configs (just delete the file) so
