@@ -1,9 +1,0 @@
-/* Use the animated GIF as the loading spinner */
-.tab-throbber[busy] {
-    background: url('../img/Yin-and-Yang.gif') center no-repeat !important; /* Set the GIF as background */
-    background-size: 16px !important; /* Adjust size */
-    width: 16px !important; /* Set width to match GIF size */
-    height: 16px !important; /* Set height to match GIF size */
-    visibility: visible !important; /* Ensure the throbber is visible */
-    background-repeat: no-repeat !important; /* Ensure the background does not repeat */
-}
