@@ -8,12 +8,10 @@ A minimal Firefox theme with userContent and userChrome.
 
 <br>
 
-🦊 I have Blurred my Pins, Weather,extensions and the searchbar in the Screenshot, it has nothing to do with the code. 🦊
+🦊 I have Blurred my Pins, Weather,extensions and the searchbar in the Screenshot, it has nothing to do with the code.
 
 
 ![Image](./README-Resources/ShowCase.png)
-
-[MainFeatures.webm](https://github.com/user-attachments/assets/090283c9-346e-47d9-a2e9-9ae549103d6c)
 
 <details><summary>🚩 Release notes</summary>
 
