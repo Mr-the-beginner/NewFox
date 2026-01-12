@@ -1,4 +1,4 @@
-# <img src="./icons/firefox-logo.svg" width="32" height="32" style="vertical-align: middle;"> NewFox
+# <img src="./README-Resources//firefox-logo.svg" width="32" height="32" style="vertical-align: middle;"> NewFox
 A minimal Firefox theme with userContent and userChrome.
 
 <div>
@@ -11,7 +11,7 @@ A minimal Firefox theme with userContent and userChrome.
 🦊 I have Blurred my Pins, Weather,extensions and the searchbar in the Screenshot, it has nothing to do with the code. 🦊
 
 
-![Image](./Screenshot.png)
+![Image](./README-Resources/ShowCase.png)
 
 > [!IMPORTANT]
 > Enabling the customizations files =>
