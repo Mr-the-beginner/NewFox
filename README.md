@@ -79,6 +79,8 @@ A minimal Firefox theme with userContent and userChrome.
 >the pencil icon get shown up in the home screen,
 >
 > then toggled-on the weather widget then enable the file again (restore the file).
+>
+> the running knight is also only get shown in the currect position if the firefox is fullscreen, if nnot it will be displaced (i will fix it someday 😇)
 
 > [!CAUTION]
 > Now available at (https://firefoxcss-store.github.io/) . Just search for NewFox
