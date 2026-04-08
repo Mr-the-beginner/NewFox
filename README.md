@@ -2,7 +2,7 @@
 A minimal Firefox theme with userContent and userChrome.
 
 <div>
- <a href='https://www.mozilla.org'><img src="https://img.shields.io/badge/Last%20tested%20Firefox-v149.0.0-orange?logo=firefox"></a>
+ <a href='https://www.mozilla.org'><img src="https://img.shields.io/badge/Last%20tested%20Firefox-v149.0.2-orange?logo=firefox"></a>
  <a href='https://github.com/Mr-the-beginner/NewFox/commits/main/'><img src="https://img.shields.io/github/last-commit/Mr-the-beginner/NewFox/main"></a>
 </div>
 
