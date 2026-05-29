@@ -17,8 +17,9 @@ A minimal Firefox theme with userContent and userChrome.
 ##
 
 >[!TIP]
->From here you can also watch a short demo on the ![main features](./README-Resources/MainFeatures.md)
->to get the old look back , at about:config turn "browser.newtabpage.activity-stream.nova.enabled" to false
+> - From here you can also watch a short demo on the ![main features](./README-Resources/MainFeatures.md)
+>
+> - to get the old look back , at about:config turn "browser.newtabpage.activity-stream.nova.enabled" to false
 
 ##
 
