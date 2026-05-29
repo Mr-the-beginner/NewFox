@@ -2,7 +2,7 @@
 A minimal Firefox theme with userContent and userChrome.
 
 <div>
- <a href='https://www.mozilla.org'><img src="https://img.shields.io/badge/Last%20tested%20Firefox-v150.0.3-orange?logo=firefox"></a>
+ <a href='https://www.mozilla.org'><img src="https://img.shields.io/badge/Last%20tested%20Firefox-v151.0.2-orange?logo=firefox"></a>
  <a href='https://github.com/Mr-the-beginner/NewFox/commits/main/'><img src="https://img.shields.io/github/last-commit/Mr-the-beginner/NewFox/main"></a>
 </div>
 
@@ -18,6 +18,7 @@ A minimal Firefox theme with userContent and userChrome.
 
 >[!TIP]
 >From here you can also watch a short demo on the ![main features](./README-Resources/MainFeatures.md)
+>to get the old look back , at about:config turn "browser.newtabpage.activity-stream.nova.enabled" to false
 
 ##
 
