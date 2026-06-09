@@ -85,7 +85,7 @@ A minimal Firefox theme with userContent and userChrome.
 > the running knight is also only get shown in the currect position if the firefox is fullscreen, if nnot it will be displaced (i will fix it someday 😇)
 
 > [!CAUTION]
-> Now available at (https://firefoxcss-store.github.io/) . Just search for NewFox
+> Now available at ([https://firefoxcss-store.github.io/](https://firefoxcss-store.github.io/themes/newfox/))
 
 ##
 
