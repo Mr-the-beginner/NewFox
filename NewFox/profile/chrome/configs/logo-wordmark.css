@@ -1,0 +1,13 @@
+/* removes the firefox logo and name from the home screen */
+
+.logo {
+    display: none !important;
+}
+
+.wordmark {
+    display: none !important;
+}
+
+.logo-and-wordmark-wrapper {
+    display: none !important;
+}

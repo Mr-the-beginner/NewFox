@@ -1,0 +1,27 @@
+/* the green and red glowing effect by the hovering on open tabs */
+
+.tabbrowser-tab[selected="true"] {
+    box-shadow: none !important;
+    background-color: transparent !important;
+    color: white !important;
+    border-radius: 5px !important;
+    transition: box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+.tabbrowser-tab[selected="true"]:hover {
+    box-shadow: 0 -2px 5px rgba(0, 255, 0, 0.9), 0 2px 5px rgba(0, 255, 0, 0.9) !important;
+    background-color: transparent !important;
+}
+
+.tabbrowser-tab:not([selected]) {
+    box-shadow: none !important;
+    background-color: transparent !important;
+    color: rgba(255, 255, 255, 0.8) !important;
+    border-radius: 5px !important;
+    transition: box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+.tabbrowser-tab:not([selected]):hover {
+    box-shadow: 0 -2px 5px rgba(255, 0, 0, 0.9), 0 2px 5px rgba(255, 0, 0, 0.9) !important;
+    background-color: transparent !important;
+}

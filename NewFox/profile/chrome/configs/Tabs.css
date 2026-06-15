@@ -1,0 +1,13 @@
+/* rotate close button for the open tabs on hover */
+
+#tabbrowser-tabs .tab-close-button {
+background: none !important;
+border: none !important;
+}
+
+#tabbrowser-tabs .tab-close-button:hover {
+transform: rotate(720deg) !important;
+transition: transform ease-in-out 2.5s !important;
+background: none !important;
+border: none !important;
+}

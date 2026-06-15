@@ -1,0 +1,44 @@
+/* Adds the chest and the coin button as a toolbar button , 
+the buttons themselves is defined at the js file  */
+
+#chest-button {
+min-width: 40px !important;
+min-height: 40px !important;
+
+padding: 0 !important;
+margin: 0 !important;
+
+list-style-image: url("../img/Chest.png") !important;
+
+background: transparent !important;
+border: none !important;
+}
+#chest-button .toolbarbutton-icon {
+width: 32px !important;
+height: 32px !important;
+
+display: -moz-box !important;
+
+opacity: 1 !important;
+}
+
+#coin-button {
+min-width: 40px !important;
+min-height: 40px !important;
+
+padding: 0 !important;
+margin: 0 !important;
+
+list-style-image: url("../img/Coin.png") !important;
+
+background: transparent !important;
+border: none !important;
+}
+#coin-button .toolbarbutton-icon {
+width: 32px !important;
+height: 32px !important;
+
+display: -moz-box !important;
+
+opacity: 1 !important;
+}

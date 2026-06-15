@@ -1,0 +1,20 @@
+/* color for container tab icon */
+
+tab[class*="identity-color-"] .tab-icon-stack .tab-icon-image,
+tab[class*="identity-color-"] hbox.tab-throbber {
+    outline: 2px solid var(--identity-icon-color) !important;
+    border-radius: 50% !important;
+}
+
+tab[class*="identity-color-"] .tab-context-line {
+    background: none !important;
+    height: 0 !important;
+    border-radius: 0 !important;
+    margin: 0 !important;
+}
+
+.tab-icon-image:not([src]),
+.tab-icon-image:-moz-broken {
+    display: unset !important;
+    content: url("") !important;
+}
