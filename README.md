@@ -106,6 +106,10 @@ A minimal Firefox theme with userContent and userChrome.
 
 *  the 4.png is from = https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character
 
+* liquid-glass inpired by = https://freefrontend.com/css-liquid-glass/
+
+* Coin.png and Chest.png are from = https://itch.io
+
 </details>
 
 ## Star History
