@@ -33,21 +33,21 @@ A minimal Firefox theme with userContent and userChrome.
 
 #### Step 2 - Enabling some settigs
 
- - in the search bar type about:config and make these true =
+ - In the search bar type about:config and make these true =
  - privacy.userContext.enabled
  - toolkit.legacyUserProfileCustomizations.stylesheets
  - browser.newtabpage.activity-stream.nova.enabled (151.0.0 above only)
 
 #### Step 3 - Installing the files
 
- - Type = about:support in the search bar
- - Under "Application Basics", find "Profile Directory" and click "Open Directory" infront of it
- - Come one directory below
- - then copy the content of the "NewFox" folder as is inside and hit replace everything
+ - Type = about:support in the search bar.
+ - Under "Application Basics", find "Profile Directory" and click "Open Directory" in front of it.
+ - Come one directory below.
+ - then copy the content of the "NewFox" folder as is inside and hit replace everything.
 
   #### Step 4 - Last touch
   
- - from where you are find the "profile" directory, go inside of it and delete the "startupCache" directory
+ - From where you are find the "profile" directory, go inside of it and delete the "startupCache" directory.
    
    </details>
 
@@ -84,7 +84,7 @@ A minimal Firefox theme with userContent and userChrome.
 >
 > Toggled-on the weather widget then enable the file again (restore the file).
 >
-> the running knight is also only get shown in the currect position if the firefox is fullscreen, if not it will be displaced (i will fix it someday 😇)
+> The running knight is also only get shown in the currect position if the firefox is fullscreen, if not it will be displaced (i will fix it someday 😇)
 
 > [!TIP]
 > Now available at ([https://firefoxcss-store.github.io/](https://firefoxcss-store.github.io/themes/newfox/))
