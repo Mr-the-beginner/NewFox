@@ -2,7 +2,7 @@
 A minimal Firefox theme with userContent and userChrome.
 
 <div>
- <a href='https://www.mozilla.org'><img src="https://img.shields.io/badge/Last%20tested%20Firefox-v151.0.3-orange?logo=firefox"></a>
+ <a href='https://www.mozilla.org'><img src="https://img.shields.io/badge/Last%20tested%20Firefox-v151.0.4-orange?logo=firefox"></a>
  <a href='https://github.com/Mr-the-beginner/NewFox/commits/main/'><img src="https://img.shields.io/github/last-commit/Mr-the-beginner/NewFox/main"></a>
 </div>
 
@@ -19,7 +19,9 @@ A minimal Firefox theme with userContent and userChrome.
 >[!TIP]
 > - From here you can also watch a short demo on the ![main features](./README-Resources/MainFeatures.md)
 >
-> - to get the old look back , at about:config turn "browser.newtabpage.activity-stream.nova.enabled" to false
+> - Use this with atleast FireFox 151.0.0 to get the full features
+>
+> - Use vertical tab
 
 ##
 
@@ -34,15 +36,16 @@ A minimal Firefox theme with userContent and userChrome.
  - in the search bar type about:config and make these true =
  - privacy.userContext.enabled
  - toolkit.legacyUserProfileCustomizations.stylesheets
+ - browser.newtabpage.activity-stream.nova.enabled (151.0.0 above only)
 
-#### Step 3 - installing the files
+#### Step 3 - Installing the files
 
  - Type = about:support in the search bar
  - Under "Application Basics", find "Profile Directory" and click "Open Directory" infront of it
  - Come one directory below
- - then copy the "NewFox Content" as is inside and hit replace everything
+ - then copy the content of the "NewFox" folder as is inside and hit replace everything
 
-  #### Step 4 - installin the files
+  #### Step 4 - Last touch
   
  - from where you are find the "profile" directory, go inside of it and delete the "startupCache" directory
    
@@ -53,6 +56,11 @@ A minimal Firefox theme with userContent and userChrome.
 <details><summary>🚩 Release notes <i>[Click to expand]</i> 👇</summary>
  
 <br/>
+
+1.2.0:
+- Homescreen pins are now inspired by liquid glass
+- Fixed some svg´s
+- Added the toolbar animated items
 
 1.1.0:
 - Added the running Knight 
@@ -66,25 +74,19 @@ A minimal Firefox theme with userContent and userChrome.
 
 ##
 
-> [!TIP] 
->Enabling weather =>
-> 
->In about:config make this true =
->
-> privacy.userContext.enabled
->
-> toolkit.legacyUserProfileCustomizations.stylesheets
+> [!CAUTION] 
+> Look at this video if the vertical tab is looking not the way it was shown in the showcase video above (not yet uploaded)
 
 > [!NOTE]
->Disable "personalize-button.css" in the configs (just delete the file) so
+> Disable "personalize-button.css" in the configs (just delete the file).
 > 
->the pencil icon get shown up in the home screen,
+> The pencil icon will get shown up in the home screen right corner.
 >
-> then toggled-on the weather widget then enable the file again (restore the file).
+> Toggled-on the weather widget then enable the file again (restore the file).
 >
-> the running knight is also only get shown in the currect position if the firefox is fullscreen, if nnot it will be displaced (i will fix it someday 😇)
+> the running knight is also only get shown in the currect position if the firefox is fullscreen, if not it will be displaced (i will fix it someday 😇)
 
-> [!CAUTION]
+> [!TIP]
 > Now available at ([https://firefoxcss-store.github.io/](https://firefoxcss-store.github.io/themes/newfox/))
 
 ##
