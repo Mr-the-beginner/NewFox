@@ -17,7 +17,7 @@ A minimal Firefox theme with userContent and userChrome.
 ##
 
 >[!TIP]
-> - From here you can also watch a short demo on the ![main features](./README-Resources/MainFeatures.md) (10% outdated, i have added 3 more thing but will upload the video later)
+> - From here you can also watch a short demo on the ![main features](./README-Resources/MainFeatures.md) (10% outdated, i have added 3 more things but will upload the video later)
 >
 > - Use this with atleast FireFox 151.0.0 to get the full features
 >
