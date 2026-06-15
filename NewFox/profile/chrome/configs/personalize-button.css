@@ -1,9 +1,0 @@
-@-moz-document url("about:newtab"), url("about:home") {
-    button.personalize-button,
-    button[data-l10n-id="newtab-customize-panel-icon-button"] {
-        display: none !important;
-        opacity: 0 !important;
-        visibility: hidden !important;
-        pointer-events: none !important;
-    }
-}

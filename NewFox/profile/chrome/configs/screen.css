@@ -1,5 +1,0 @@
-/* Round the upper-left corner of the tab bar */
-#tabbrowser-tabbox {
-border-top-left-radius: 12px !important;
-overflow: hidden !important;
-}
