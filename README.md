@@ -29,7 +29,7 @@ A minimal Firefox theme with userContent and userChrome.
 
 #### Step 1 - Download files
 
- - [Download](https://github.com/Mr-the-beginner/NewFox/releases/download/V1.1.0/NewFox-V1.2.zip) and unzip theme files
+ - [Download](https://github.com/Mr-the-beginner/NewFox/releases/download/V1.2.0/NewFox-V1.2.zip) and unzip theme files
 
 #### Step 2 - Enabling some settigs
 
