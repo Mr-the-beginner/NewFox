@@ -22,7 +22,7 @@ A minimal Firefox theme with userContent and userChrome.
 >[!TIP]
 > - Check out the [main features](showcase.md)
 >
-> - Use vertical tabs
+> - Use vertical tabs (Available from Firefox 136.0.0 above)
 
 ##
 
