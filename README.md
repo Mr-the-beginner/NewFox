@@ -104,13 +104,14 @@ A minimal Firefox theme with userContent and userChrome.
 > If you already installed the files, drag the splitter between the vertical tabs and the main screen to left and right until the running knight goes above seperator that should be under it, but this only happen if there are 3 tools maximum at you sidebar.
 
 > [!NOTE]
-> Disable "personalize-button.css" in the configs (just delete the file).
+> If the weather widget is not enabled by default, do the following :
 > 
+> Disable "personalize-button.css" in the configs (just delete the file)
 > The pencil icon will get shown up in the home screen right corner.
->
 > Toggled-on the weather widget then enable the file again (restore the file).
->
-> The running knight is also only get shown in the currect position if the firefox is maximized and have the fullscreen, if not it will be displaced (i will fix it someday 😇)
+
+> [!CAUTION]
+> The running knight is also only get shown in the currect position if the firefox is maximized and have the fullscreen, if not it will be displaced (i will fix it someday)
 
 ##
 
