@@ -17,13 +17,13 @@ A minimal Firefox theme with userContent and userChrome.
 ##
 
 > [!CAUTION] 
-> On Firefox 152.0.0 in the search bar type about:config and make this "browser.nova.enabled" false
+> On Firefox 152.0.0 in the search bar type about:config and make this "browser.nova.enabled" false.
+> Use this configuration only on Firefox 136.0.0 and above, becuase it heavily depends on sidebar.
 
 >[!TIP]
 > - Check out the [main features](showcase.md)
->
-> - Use vertical tabs (Available from Firefox 136.0.0 above)
-> - The theme is now also at ([https://firefoxcss-store.github.io/](https://firefoxcss-store.github.io/themes/newfox/))
+> - 
+> - The theme is now also at ([firefoxcss-store](https://firefoxcss-store.github.io/themes/newfox/))
 
 ##
 
