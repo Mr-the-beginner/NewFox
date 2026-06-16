@@ -21,7 +21,7 @@ A minimal Firefox theme with userContent and userChrome.
 >
 > - Use this with atleast FireFox 151.0.0 to get the full features
 >
-> - Use vertical tab
+> - Use vertical tabs
 
 ##
 
