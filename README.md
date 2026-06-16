@@ -37,14 +37,26 @@ A minimal Firefox theme with userContent and userChrome.
  - In the search bar type about:config and make these true =
  - privacy.userContext.enabled
  - toolkit.legacyUserProfileCustomizations.stylesheets
- - browser.newtabpage.activity-stream.nova.enabled (151.0.0 above only)
 
 #### Step 3 - Installing the files
 
+## Linux 
  - Type = about:support in the search bar.
  - Under "Application Basics", find "Profile Directory" and click "Open Directory" in front of it.
  - Come one directory below.
- - then copy the content of the "NewFox" directory as is inside and hit replace everything.
+ - then copy the content of the "NewFox" directory as is inside and hit replace everything necessarily.
+
+## Windows
+ - Type = about:support in the search bar.
+ - Under "Application Basics", find "Profile folder" and click "Open folder" in front of it.
+ - Copy the content of the "NewFox/profile" folder as is inside and hit replace everything if necessarily.
+ - Copy the content of the "NewFox/defaults" folder as is into Firefox main folder (where the Firefox executable is).
+
+## MacOS
+ - Type = about:support in the search bar.
+ - Under "Application Basics", find "Profile Directory" and click "Open Directory" in front of it.
+ - Copy the content of the "NewFox/profile" folder as is inside and hit replace everything if necessarily.
+ - Copy the content of the "NewFox/defaults" folder as inside the main executable at /Applications/Firefox.app/Contents/Resources/.
 
   #### Step 4 - Last touch
   
