@@ -26,19 +26,19 @@ A minimal Firefox theme with userContent and userChrome.
 
 ##
 
-### How to Install
+<details><summary>How to Install</summary>
 
-#### Step 1 - Download files
+## Step 1 - Download files
 
  - [Download](https://github.com/Mr-the-beginner/NewFox/releases/download/1.2.1/NewFox-V1.2.1.zip) and unzip theme files
 
-#### Step 2 - Enabling some settigs
+## Step 2 - Enabling some settigs
 
  - In the search bar type about:config and make these true =
  - privacy.userContext.enabled
  - toolkit.legacyUserProfileCustomizations.stylesheets
 
-#### Step 3 - Installing the files
+## Step 3 - Installing the files
 
 ### Linux 
  - Type = about:support in the search bar.
@@ -59,7 +59,7 @@ A minimal Firefox theme with userContent and userChrome.
  - Copy the content of the "NewFox/profile/" folder as is inside and hit replace everything if necessarily.
  - Copy the "NewFox/defaults" folder as is inside the main executable at "/Applications/Firefox.app/Contents/Resources/" and hit replace everything if necessarily.
 
-#### step 4 - Last touch
+## step 4 - Last touch
 
 ### Linux/macOS
 - Type about:profiles
@@ -68,14 +68,12 @@ A minimal Firefox theme with userContent and userChrome.
 - Type about:profiles
 - Find your profile (or every profile) find "Local Folder" and click "Open Folder" close Firefox and delete all files in "startupCache" folder.
 
+</details>
 
-   </details>
 
 ##
 
-<details><summary>🚩 Release notes <i>[Click to expand]</i> 👇</summary>
- 
-<br/>
+<details><summary>Release notes</summary>
 
 1.2.0:
 - Homescreen pins are now inspired by liquid glass
@@ -95,7 +93,13 @@ A minimal Firefox theme with userContent and userChrome.
 ##
 
 > [!CAUTION] 
-> Look at this video if the vertical tabs is looking odd (not yet uploaded)
+> At first the vertical tab will look odd there are 2 solutions
+>
+> 1st =>
+> Before installing the files, make vertical tabs as small as possible, by dragging the splitter between the vertical tabs and the main screen to left.
+>
+> 2nd =>
+> If you already installed the files, dragg the splitter between the vertical tabs and the main screen to left and right until the running night goes above seperator that should be under it.
 
 > [!NOTE]
 > Disable "personalize-button.css" in the configs (just delete the file).
@@ -104,7 +108,7 @@ A minimal Firefox theme with userContent and userChrome.
 >
 > Toggled-on the weather widget then enable the file again (restore the file).
 >
-> The running knight is also only get shown in the currect position if the firefox is fullscreen, if not it will be displaced (i will fix it someday 😇)
+> The running knight is also only get shown in the currect position if the firefox is maximized and have the fullscreen, if not it will be displaced (i will fix it someday 😇)
 
 > [!TIP]
 > Now available at ([https://firefoxcss-store.github.io/](https://firefoxcss-store.github.io/themes/newfox/))
