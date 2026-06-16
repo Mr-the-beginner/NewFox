@@ -23,6 +23,7 @@ A minimal Firefox theme with userContent and userChrome.
 > - Check out the [main features](showcase.md)
 >
 > - Use vertical tabs (Available from Firefox 136.0.0 above)
+> - The theme is now also at ([https://firefoxcss-store.github.io/](https://firefoxcss-store.github.io/themes/newfox/))
 
 ##
 
@@ -109,9 +110,6 @@ A minimal Firefox theme with userContent and userChrome.
 > Toggled-on the weather widget then enable the file again (restore the file).
 >
 > The running knight is also only get shown in the currect position if the firefox is maximized and have the fullscreen, if not it will be displaced (i will fix it someday 😇)
-
-> [!TIP]
-> Now available at ([https://firefoxcss-store.github.io/](https://firefoxcss-store.github.io/themes/newfox/))
 
 ##
 
