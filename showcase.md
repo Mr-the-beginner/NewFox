@@ -1,9 +1,9 @@
 #### Previews
 
-|Style 1|Style 2|Style 3|Style 4|Style 5|
+|Searchbar blur by unfocusing|Style 2|Style 3|Style 4|Style 5|
 |--|--|--|--|--|
 |![img](README-Resources/1.gif)|![img]()|![img]()|![img]()|![img]()|
-
+|Added at version 1.0|
 
 |Style 6|Style 7|Style 8|Style 9|Style 10|
 |--|--|--|--|--|
