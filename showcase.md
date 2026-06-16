@@ -14,7 +14,7 @@
 
 <br>
 
-|Custom toolbar items looking like extentions with animated icons|Liqiud glass inspired home buttons|Color change after clicking a home button|
+|Custom toolbar items looking like extentions with animated icons|Liqiud glass inspired home buttons|
 |--|--|--|
-|![img](README-Resources/5.gif)|![img](README-Resources/6.gif)|![img](README-Resources/7.gif)|
-|Added at version 1.2.0|Added at version 1.2.0|Added at version 1.2.0|
+|![img](README-Resources/5.gif)|![img](README-Resources/6.gif)|
+|Added at version 1.2.0|Added at version 1.2.0|
