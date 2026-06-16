@@ -22,7 +22,7 @@ A minimal Firefox theme with userContent and userChrome.
 
 >[!TIP]
 > - Check out the [main features](showcase.md)
-> - 
+>   
 > - The theme is now also at ([firefoxcss-store](https://firefoxcss-store.github.io/themes/newfox/))
 
 ##
