@@ -5,11 +5,7 @@
 |![img](README-Resources/1.gif)|![img](README-Resources/2.gif)|![img](README-Resources/3.gif)|![img](README-Resources/4.gif)|
 |Added at version 1.0|Added at version 1.0|Added at version 1.0|Added at version 1.0|
 
-|Style 6|Style 7|Style 8|Style 9|Style 10|
-|--|--|--|--|--|
-|![img](README-Resources/5.gif)|![img](README-Resources/6.gif)|![img](README-Resources/7.gif)|![img]()|![img](README-Resources/8.gif)|
-|Added at version 1.0|Added at version 1.0|Added at version 1.0|Added at version 1.0|
-
-|Style 11|Style 12|Style 13|Style 14|Style 15|
-|--|--|--|--|--|
-|![img]()|![img]()|![img]()|![img]()|![img]()|
+|Custom throbber|Style 7|Liqiud glass inspired home buttons|color change after clicking a home button|
+|--|--|--|--|
+|![img](README-Resources/8.gif)|![img](README-Resources/9.png)|![img](README-Resources/6.gif)|![img](README-Resources/7.gif)|
+|Added at version 1.0|Added at version 1.0|Added at version 1.2|Added at version 1.2|
