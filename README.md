@@ -62,11 +62,11 @@ A minimal Firefox theme with userContent and userChrome.
 #### step 4 - Last touch
 
 ### Linux/macOS
-> Type about:profiles
-> Find your profile (or every profile) find "Local Directory" and click "Open Directory" close Firefox and delete all files in "startupCache" Directory.
-> ### Windows
-> Type about:profiles
-> Find your profile (or every profile) find "Local Folder" and click "Open Folder" close Firefox and delete all files in "startupCache" folder.
+- Type about:profiles
+- Find your profile (or every profile) find "Local Directory" and click "Open Directory" close Firefox and delete all files in "startupCache" Directory.
+- ### Windows
+- Type about:profiles
+- Find your profile (or every profile) find "Local Folder" and click "Open Folder" close Firefox and delete all files in "startupCache" folder.
 
 
    </details>
