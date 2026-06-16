@@ -93,13 +93,13 @@ A minimal Firefox theme with userContent and userChrome.
 ##
 
 > [!CAUTION] 
-> At first the vertical tab will look odd there are 2 solutions
+> At first the vertical tabs will look a little odd there are 2 solutions :
 >
 > 1st =>
 > Before installing the files, make vertical tabs as small as possible, by dragging the splitter between the vertical tabs and the main screen to left.
 >
 > 2nd =>
-> If you already installed the files, dragg the splitter between the vertical tabs and the main screen to left and right until the running night goes above seperator that should be under it.
+> If you already installed the files, drag the splitter between the vertical tabs and the main screen to left and right until the running knight goes above seperator that should be under it, but this only happen if there are 3 tools maximum at you sidebar.
 
 > [!NOTE]
 > Disable "personalize-button.css" in the configs (just delete the file).
