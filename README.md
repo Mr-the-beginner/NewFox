@@ -40,23 +40,23 @@ A minimal Firefox theme with userContent and userChrome.
 
 #### Step 3 - Installing the files
 
-## Linux 
+### Linux 
  - Type = about:support in the search bar.
  - Under "Application Basics", find "Profile Directory" and click "Open Directory" in front of it.
  - Come one directory below.
  - then copy the content of the "NewFox" directory as is inside and hit replace everything necessarily.
 
-## Windows
+### Windows
  - Type = about:support in the search bar.
  - Under "Application Basics", find "Profile folder" and click "Open folder" in front of it.
  - Copy the content of the "NewFox/profile" folder as is inside and hit replace everything if necessarily.
  - Copy the content of the "NewFox/defaults" folder as is into Firefox main folder (where the Firefox executable is).
 
-## MacOS
+### MacOS
  - Type = about:support in the search bar.
  - Under "Application Basics", find "Profile Directory" and click "Open Directory" in front of it.
  - Copy the content of the "NewFox/profile" folder as is inside and hit replace everything if necessarily.
- - Copy the content of the "NewFox/defaults" folder as inside the main executable at /Applications/Firefox.app/Contents/Resources/.
+ - Copy the content of the "NewFox/defaults" folder as is inside the main executable at /Applications/Firefox.app/Contents/Resources/.
 
   #### Step 4 - Last touch
   
