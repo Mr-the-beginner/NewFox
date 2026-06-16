@@ -75,7 +75,7 @@ A minimal Firefox theme with userContent and userChrome.
 ##
 
 > [!CAUTION] 
-> Look at this video if the vertical tab is looking not the way it was shown in the showcase video above (not yet uploaded)
+> Look at this video if the vertical tabs is looking odd (not yet uploaded)
 
 > [!NOTE]
 > Disable "personalize-button.css" in the configs (just delete the file).
