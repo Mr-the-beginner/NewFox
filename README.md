@@ -2,7 +2,7 @@
 A minimal Firefox theme with userContent and userChrome.
 
 <div>
- <a href='https://www.mozilla.org'><img src="https://img.shields.io/badge/Last%20tested%20Firefox-v151.0.4-orange?logo=firefox"></a>
+ <a href='https://www.mozilla.org'><img src="https://img.shields.io/badge/Last%20tested%20Firefox-v152.0.0-orange?logo=firefox"></a>
  <a href='https://github.com/Mr-the-beginner/NewFox/commits/main/'><img src="https://img.shields.io/github/last-commit/Mr-the-beginner/NewFox/main"></a>
 </div>
 
@@ -16,10 +16,11 @@ A minimal Firefox theme with userContent and userChrome.
 
 ##
 
+> [!CAUTION] 
+> On Firefox 152.0.0 search about:config in your searchbar and make "browser.nova.enabled" false
+
 >[!TIP]
 > - Check out the ![main features](showcase.md)
->
-> - Use this with atleast FireFox 151.0.0 to get the full features
 >
 > - Use vertical tabs
 
