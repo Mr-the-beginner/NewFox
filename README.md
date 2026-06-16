@@ -116,3 +116,5 @@ A minimal Firefox theme with userContent and userChrome.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Mr-the-beginner/NewFox&type=date&legend=top-left)](https://www.star-history.com/#Mr-the-beginner/NewFox&type=date&legend=top-left)
+
+Highest so far = 105
