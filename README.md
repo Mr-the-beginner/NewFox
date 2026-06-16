@@ -43,8 +43,9 @@ A minimal Firefox theme with userContent and userChrome.
 ### Linux 
  - Type = about:support in the search bar.
  - Under "Application Basics", find "Profile Directory" and click "Open Directory" in front of it.
- - Come one directory below.
- - then copy the content of the "NewFox" directory as is inside and hit replace everything necessarily.
+ - Copy the content of the "NewFox/profile" folder as is inside and hit replace everything if necessarily.
+ - Go back to about:support and now under "Application Basics", find "Application Binary" go to that place.
+ - Copy the content of the "NewFox/defaults" folder as is inside and hit replace everything if necessarily.
 
 ### Windows
  - Type = about:support in the search bar.
