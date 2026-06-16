@@ -43,26 +43,32 @@ A minimal Firefox theme with userContent and userChrome.
 ### Linux 
  - Type = about:support in the search bar.
  - Under "Application Basics", find "Profile Directory" and click "Open Directory" in front of it.
- - Copy the content of the "NewFox/profile" folder as is inside and hit replace everything if necessarily.
+ - Copy the content of the "NewFox/profile/" directory as is inside and hit replace everything if necessarily.
  - Go back to about:support and now under "Application Basics", find "Application Binary" go to that place.
- - Copy the content of the "NewFox/defaults" folder as is inside and hit replace everything if necessarily.
+ - Copy the "NewFox/defaults" folder as is inside and hit replace everything if necessarily.
 
 ### Windows
  - Type = about:support in the search bar.
- - Under "Application Basics", find "Profile folder" and click "Open folder" in front of it.
- - Copy the content of the "NewFox/profile" folder as is inside and hit replace everything if necessarily.
- - Copy the content of the "NewFox/defaults" folder as is into Firefox main folder (where the Firefox executable is).
+ - Under "Application Basics", find "Profile Folder" and click "Open Folder" in front of it.
+ - Copy the content of the "NewFox/profile/" folder as is inside and hit replace everything if necessarily.
+ - Copy the "NewFox/defaults" folder as is into Firefox main folder (where the Firefox executable is) and hit replace everything if necessarily.
 
 ### MacOS
  - Type = about:support in the search bar.
  - Under "Application Basics", find "Profile Directory" and click "Open Directory" in front of it.
- - Copy the content of the "NewFox/profile" folder as is inside and hit replace everything if necessarily.
- - Copy the content of the "NewFox/defaults" folder as is inside the main executable at /Applications/Firefox.app/Contents/Resources/.
+ - Copy the content of the "NewFox/profile/" folder as is inside and hit replace everything if necessarily.
+ - Copy the "NewFox/defaults" folder as is inside the main executable at "/Applications/Firefox.app/Contents/Resources/" and hit replace everything if necessarily.
 
-  #### Step 4 - Last touch
-  
- - From where you are find the "profile" directory, go inside of it and delete the "startupCache" directory.
-   
+#### step 4 - Last touch
+
+### Linux/macOS
+> Type about:profiles
+> Find your profile (or every profile) find "Local Directory" and click "Open Directory" close Firefox and delete all files in "startupCache" Directory.
+> ### Windows
+> Type about:profiles
+> Find your profile (or every profile) find "Local Folder" and click "Open Folder" close Firefox and delete all files in "startupCache" folder.
+
+
    </details>
 
 ##
