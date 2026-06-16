@@ -1,4 +1,5 @@
 #### Previews
+(For some reason non of these gif´s are playable on ipad)
 
 |Searchbar blur by unfocusing|Custom throbber|Sleeping knight at the toolbar and sidebar|Knight near campfire at the toolbar|
 |--|--|--|--|
@@ -15,6 +16,6 @@
 <br>
 
 |Custom toolbar items looking like extentions with animated icons|Liqiud glass inspired home buttons|
-|--|--|--|
+|--|--|
 |![img](README-Resources/5.gif)|![img](README-Resources/6.gif)|
 |Added at version 1.2.0|Added at version 1.2.0|
