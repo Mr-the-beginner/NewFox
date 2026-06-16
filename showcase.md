@@ -1,5 +1,5 @@
 #### Previews
-(For some reason non of these gif´s are playable on ipad)
+(For some reason none of these gif´s are playable on ipad)
 
 |Searchbar blur by unfocusing|Custom throbber|Sleeping knight at the toolbar and sidebar|Knight near campfire at the toolbar|
 |--|--|--|--|
