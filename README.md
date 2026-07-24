@@ -20,6 +20,8 @@ A minimal Firefox theme with userContent and userChrome.
 > - On Firefox 152.0.0 in the search bar type about:config and make "browser.nova.enabled" false.
 > 
 > - Use this configuration only on Firefox 136.0.0 and above, becuase it heavily depends on sidebar.
+>
+> - the sidebar wont work on 156.0.0 (gotta fix it)
 
 >[!TIP]
 > - Check out the [main features](showcase.md)
