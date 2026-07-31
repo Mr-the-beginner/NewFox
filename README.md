@@ -2,7 +2,7 @@
 A minimal Firefox theme with userContent and userChrome.
 
 <div>
- <a href='https://www.mozilla.org'><img src="https://img.shields.io/badge/Last%20tested%20Firefox-v152.0.6-orange?logo=firefox"></a>
+ <a href='https://www.mozilla.org'><img src="https://img.shields.io/badge/Last%20tested%20Firefox-v153.0.1-orange?logo=firefox"></a>
  <a href='https://github.com/Mr-the-beginner/NewFox/commits/main/'><img src="https://img.shields.io/github/last-commit/Mr-the-beginner/NewFox/main"></a>
 </div>
 
@@ -17,11 +17,8 @@ A minimal Firefox theme with userContent and userChrome.
 ##
 
 > [!IMPORTANT] 
-> - On Firefox 152.0.0 in the search bar type about:config and make "browser.nova.enabled" false.
 > 
 > - Use this configuration only on Firefox 136.0.0 and above, becuase it heavily depends on sidebar.
->
-> - the sidebar wont work on 156.0.0 (gotta fix it)
 
 >[!TIP]
 > - Check out the [main features](showcase.md)
