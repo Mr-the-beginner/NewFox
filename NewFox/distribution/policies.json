@@ -1,0 +1,18 @@
+{
+  "policies": {
+    "Preferences": {
+      "browser.nova.enabled": {
+        "Value": true,
+        "Status": "default"
+      },
+      "privacy.userContext.enabled": {
+        "Value": true,
+        "Status": "default"
+      },
+      "toolkit.legacyUserProfileCustomizations.stylesheets": {
+        "Value": true,
+        "Status": "default"
+      }
+    }
+  }
+}
