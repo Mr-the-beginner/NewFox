@@ -111,7 +111,7 @@ A minimal Firefox theme with userContent and userChrome.
 > Toggled-on the weather widget then enable the file again (restore the file).
 
 > [!CAUTION]
-> The running knight is also only get shown in the currect position if the firefox is maximized and have the fullscreen, if not it will be displaced (i will fix it someday)
+> The running knight is only get shown in the currect position if the firefox is maximized and the screen has a 1.25 zoom, if not it will be displaced, you can ofcurse adapt it to your screen by configuring "side-bar.css" (i will fix it someday)
 
 ##
 
