@@ -48,19 +48,19 @@ A minimal Firefox theme with userContent and userChrome.
  - Under "Application Basics", find "Profile Directory" and click "Open Directory" in front of it.
  - Copy the content of the "NewFox/profile/" directory as is inside and hit replace everything if necessarily.
  - Go back to about:support and now under "Application Basics", find "Application Binary" go to that place.
- - Copy the "NewFox/defaults" folder and "config.js" as is inside and hit replace everything if necessarily.
+ - Copy the "NewFox/defaults" directory , "config.js" and "distribution" as is inside and hit replace everything if necessarily.
 
 ### Windows
  - Type = about:support in the search bar.
  - Under "Application Basics", find "Profile Folder" and click "Open Folder" in front of it.
  - Copy the content of the "NewFox/profile/" folder as is inside and hit replace everything if necessarily.
- - Copy the "NewFox/defaults" folder as is and "config.js" into Firefox main folder (where the Firefox executable is) and hit replace everything if necessarily.
+ - Copy the "NewFox/defaults" folder,"config.js" and "distribution" as is into Firefox main folder (where the Firefox executable is) and hit replace everything if necessarily.
 
 ### MacOS
  - Type = about:support in the search bar.
  - Under "Application Basics", find "Profile Directory" and click "Open Directory" in front of it.
  - Copy the content of the "NewFox/profile/" folder as is inside and hit replace everything if necessarily.
- - Copy the "NewFox/defaults" folder as is and "config.js" inside the main executable at "/Applications/Firefox.app/Contents/Resources/" and hit replace everything if necessarily.
+ - Copy the "NewFox/defaults" directory, "config.js" and "distribution" as is inside the main executable at "/Applications/Firefox.app/Contents/Resources/" and hit replace everything if necessarily.
 
 ## step 4 - Last touch
 
@@ -72,7 +72,6 @@ A minimal Firefox theme with userContent and userChrome.
 - Find your profile (or every profile) find "Local Folder" and click "Open Folder" close Firefox and delete all files in "startupCache" folder.
 
 </details>
-
 
 ##
 
