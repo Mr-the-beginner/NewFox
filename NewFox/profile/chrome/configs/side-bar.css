@@ -24,10 +24,6 @@ visibility: hidden !important;
 pointer-events: none !important;
 }
 
-#sidebar-launcher-splitter {
-pointer-events: none !important;
-}
-
 #sidebar-button {
 opacity: 0 !important;
 pointer-events: none !important;
