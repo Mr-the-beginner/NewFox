@@ -1,5 +1,5 @@
 /* side bar animated picture */
-#sidebar-main {
+#sidebar-container {
 background-image:
 url(../img/1.png),
 url(../img/4.png) !important;
@@ -20,7 +20,11 @@ min-width: 83.8px !important;
 }
 
 #sidebar-tools-and-extensions-splitter {
-visibility: visible !important;
+visibility: hidden !important;
+pointer-events: none !important;
+}
+
+#sidebar-launcher-splitter {
 pointer-events: none !important;
 }
 
