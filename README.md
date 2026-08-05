@@ -78,12 +78,13 @@ A minimal Firefox theme with userContent and userChrome.
 <details><summary>Release notes</summary>
 
 1.2.2:
--Fixed the sidebard because it got broken in the 153.0.0 update
--Also made it work on nova mode
--Added policies.json, to enable nova and browser customization by default
+- Fixed the sidebard because it got broken in the 153.0.0 update
+- Also made it work on nova mode
+- Added policies.json, to enable nova and browser customization by default
 
 1.2.1:
--At version 152.0.0 firefox broke the throbber , so i had to fix it.
+- At version 152.0.0 firefox broke the throbber , so i had to fix it.
+
 1.2.0:
 - Homescreen pins are now inspired by liquid glass
 - Fixed some svg´s
