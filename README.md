@@ -35,13 +35,13 @@ A minimal Firefox theme with userContent and userChrome.
 
  - [Download](https://github.com/Mr-the-beginner/NewFox/releases/download/1.2.1/NewFox-V1.2.1.zip) and unzip theme files
 
-## Step 2 - Enabling some settigs
+## Step 1a - Enabling some settigs (should be enabled by defaut if you are using the Fifth version and above if not then do this)
 
  - In the search bar type about:config and make these true =
  - privacy.userContext.enabled
  - toolkit.legacyUserProfileCustomizations.stylesheets
 
-## Step 3 - Installing the files
+## Step 2 - Installing the files
 
 ### Linux 
  - Type = about:support in the search bar.
@@ -62,7 +62,7 @@ A minimal Firefox theme with userContent and userChrome.
  - Copy the content of the "NewFox/profile/" folder as is inside and hit replace everything if necessarily.
  - Copy the "NewFox/defaults" directory, "config.js" and "distribution" as is inside the main executable at "/Applications/Firefox.app/Contents/Resources/" and hit replace everything if necessarily.
 
-## step 4 - Last touch
+## step 3 - Last touch
 
 ### Linux/macOS
 - Type about:profiles
@@ -77,6 +77,13 @@ A minimal Firefox theme with userContent and userChrome.
 
 <details><summary>Release notes</summary>
 
+1.2.2:
+-Fixed the sidebard because it got broken in the 153.0.0 update
+-Also made it work on nova mode
+-Added policies.json, to enable nova and browser customization by default
+
+1.2.1:
+-At version 152.0.0 firefox broke the throbber , so i had to fix it.
 1.2.0:
 - Homescreen pins are now inspired by liquid glass
 - Fixed some svg´s
