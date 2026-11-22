@@ -15,7 +15,7 @@
 
 <br>
 
-|Custom toolbar items looking like extentions with animated icons|Liqiud glass inspired home buttons|
-|--|--|
-|![img](README-Resources/5.gif)|![img](README-Resources/6.gif)|
-|Added at version 1.2.0|Added at version 1.2.0|
+|Custom toolbar items looking like extentions with animated icons|Liqiud glass inspired home buttons|Rotating new tab button|
+|--|--|--|
+|![img](README-Resources/5.gif)|![img](README-Resources/6.gif)|No gif for it yet|
+|Added at version 1.2.0|Added at version 1.2.0|Added at version 1.2.3|
