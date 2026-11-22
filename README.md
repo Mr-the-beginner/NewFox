@@ -115,7 +115,7 @@ A minimal Firefox theme with userContent and userChrome.
 > 1st =>
 > Before installing the files, make vertical tabs as small as possible, by dragging the splitter between the vertical tabs and the main screen to left.
 >
-> 2nd =>
+> 2nd (Idk from which version firefox removed the seperator from the side bar, but this is for the case in which your version has it) =>
 > If you already installed the files, drag the splitter between the vertical tabs and the main screen to left and right until the running knight goes above seperator that should be under it, but this only happen if there are 3 tools maximum at you sidebar.
 
 > [!NOTE]
