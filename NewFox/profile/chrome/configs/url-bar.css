@@ -1,0 +1,32 @@
+/* Blur the URL text when not focused (cosmetic effect only) */
+#urlbar:not([focused]) .urlbar-input-box {
+filter: blur(8px) !important;
+transition: filter 0.2s ease !important;
+}
+
+/*fixed the overlapping in new firefox update (idk from which update forward, but from one of them forward they overlap)*/
+.urlbarView {
+    margin-top: 7px !important;
+    padding-top: 6px !important;
+}
+
+/*opening animation*/
+#urlbar[open] .urlbarView,
+#urlbar[breakout][breakout-extend] > #urlbar-background {
+animation-name: fp-urlbar-animation !important;
+animation-duration: 400ms !important;
+transform-origin: top !important;
+animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1) !important;
+}
+
+@keyframes fp-urlbar-animation {
+    from {
+        opacity: 0;
+        transform: scaleY(0);
+    }
+
+    to {
+        opacity: 1;
+        transform: scaleY(1);
+    }
+}

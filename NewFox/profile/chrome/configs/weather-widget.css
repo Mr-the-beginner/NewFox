@@ -1,0 +1,16 @@
+/*Removes the watermark and the infolink from the weather widget*/
+@-moz-document url(about:newtab), url(about:home) {
+    .weatherButtonContextMenuWrapper::after {
+        display: none !important;
+    }
+    .weatherSponsorText {
+        display: none !important;
+    }
+    .weatherInfoLink:hover,
+    .weatherButtonContextMenuWrapper:hover,
+    .weatherCard {
+        background: transparent !important;
+        box-shadow: none !important;
+    }
+
+}

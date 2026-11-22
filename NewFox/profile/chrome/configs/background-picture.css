@@ -1,0 +1,26 @@
+/*Back in my time we used to change the backgroung image like this,
+there was no other option, but, this is not needed anymore, because you
+have the customize button on the buttom right side of the home screen
+(Fun fact i have disabled it in these configs, because i dont like it,
+the code is under "personalize-button.css" so yeah you may either have to delete that 
+to get access to it or edit this file*/
+
+@-moz-document url(about:home), url(about:newtab), url(about:privatebrowsing) {
+    .click-target-container *,
+    .top-sites-list * {
+        color: #fff !important ;
+        text-shadow: 2px 2px 2px #222 !important ;
+    }
+
+    body::before {
+        content: "";
+        z-index: -1;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background: #f9a no-repeat url(../img/bg1.png) center;
+        background-size: cover ;
+        width: 100vw;
+        height: 100vh;
+    }
+}

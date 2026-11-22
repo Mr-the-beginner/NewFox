@@ -1,0 +1,11 @@
+/* Active tab hover - GREEN glow */
+.tabbrowser-tab[selected]:hover {
+    box-shadow: 0 -2px 5px rgba(0, 255, 0, 0.9), 0  2px 5px rgba(0, 255, 0, 0.9) !important;
+    background-color: transparent !important;
+}
+
+/* Inactive tab hover - red glow */
+.tabbrowser-tab:not([selected]):hover {
+    box-shadow: 0 -2px 5px rgba(255, 0, 0, 0.9), 0 2px 5px rgba(255, 0, 0, 0.9) !important;
+    background-color: transparent !important;
+}
