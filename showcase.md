@@ -10,7 +10,7 @@
 
 |Container tabs are round around the favicon|Glow indicator for active tab|Rotating close tab button|Running knight at the sidebar|
 |--|--|--|--|
-|![img](README-Resources/9.png)|![img](README-Resources/9.gif)|![img](README-Resources/10.gif)|![img](README-Resources/2.gif)|
+|![img](README-Resources/9.png)|![img](README-Resources/9.gif)|![img](README-Resources/7.gif)|![img](README-Resources/2.gif)|
 |Added at version 1.0.0|Added at version 1.0.0|Added at version 1.0.0|Added at version 1.1.0|
 
 <br>
