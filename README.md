@@ -76,6 +76,13 @@ A minimal Firefox theme with userContent and userChrome.
 ##
 
 <details><summary>Release notes</summary>
+ 
+1.2.3:
+- Fixed the overlapping of the upper/main searchbar caused by the firefox new update
+- Fixed the green glow active tab hover, which was getting overwritten by the new update
+- Fixed the zoom control icon not visible (also submitted the fix to the owner of those svg's)
+- Made the + buton of the new tab also rotates like the closetab X button
+- Updated the js loader which wasn't working after the new updates
 
 1.2.2:
 - Fixed the sidebard because it got broken in the 153.0.0 update
