@@ -1,4 +1,4 @@
-# <img src="./README-Resources//firefox-logo.svg" width="32" height="32" style="vertical-align: middle;"> NewFox [Animated]
+## <img src="./README-Resources//firefox-logo.svg" width="32" height="32" style="vertical-align: middle;"> NewFox [Animated]
 A minimal Firefox theme with userContent and userChrome.
 
 <div>
@@ -8,7 +8,7 @@ A minimal Firefox theme with userContent and userChrome.
 
 <br>
 
-🦊 I have Blurred my Pins, Weather, extensions and the searchbar in the Screenshot, it has nothing to do with the code.
+🦊 I blurred my pins, weather, extensions, and search bar in the screenshot; this has nothing to do with the code.
 
 ##
 
@@ -18,58 +18,58 @@ A minimal Firefox theme with userContent and userChrome.
 
 > [!IMPORTANT] 
 > 
-> - Use this configuration only on Firefox 136.0.0 and above, becuase it heavily depends on sidebar.
+> - Use this configuration only with Firefox 136.0.0 or later, because it relies heavily on the sidebar.
 
 >[!TIP]
 > - Check out the [main features](showcase.md)
 >   
-> - The theme is now also at ([firefoxcss-store](https://firefoxcss-store.github.io/themes/newfox/))
+> - The theme is also available on the [firefoxcss-store](https://firefoxcss-store.github.io/themes/newfox/)
 >
-> - Use nerdfonts
+> - Use Nerd Fonts
 
 ##
 
 <details><summary>How to Install</summary>
 
-## Step 1 - Download files
+## Step 1 - Download the files
 
- - [Download](https://github.com/Mr-the-beginner/NewFox/releases/download/V1.2.3/NewFox.zip) and unzip theme files
+ - [Download](https://github.com/Mr-the-beginner/NewFox/releases/download/V1.2.3/NewFox.zip) and unzip the theme files.
 
-## Step 1a - Enabling some settigs (should be enabled by defaut if you are using the Fifth version and above if not then do this)
+## Step 1a - Enable some settings (they should be enabled by default if you are using version five or later; if not, do this)
 
- - In the search bar type about:config and make these true =
+ - In the address bar, type about:config and set these to true:
  - privacy.userContext.enabled
  - toolkit.legacyUserProfileCustomizations.stylesheets
 
-## Step 2 - Installing the files
+## Step 2 - Install the files
 
 ### Linux 
- - Type = about:support in the search bar.
- - Under "Application Basics", find "Profile Directory" and click "Open Directory" in front of it.
- - Copy the content of the "NewFox/profile/" directory as is inside and hit replace everything if necessarily.
- - Go back to about:support and now under "Application Basics", find "Application Binary" go to that place.
- - Copy the "NewFox/defaults" directory , "config.js" and "distribution" as is inside and hit replace everything if necessarily.
+ - Type about:support in the address bar.
+ - Under "Application Basics," find "Profile Directory" and click "Open Directory" next to it.
+ - Copy the contents of the "NewFox/profile/" directory into the folder as is, replacing files if necessary.
+ - Go back to about:support. Under "Application Basics," find "Application Binary" and open that location.
+ - Copy the "NewFox/defaults" directory, "config.js," and "distribution" directory there as is, replacing files if necessary.
 
 ### Windows
- - Type = about:support in the search bar.
- - Under "Application Basics", find "Profile Folder" and click "Open Folder" in front of it.
- - Copy the content of the "NewFox/profile/" folder as is inside and hit replace everything if necessarily.
- - Copy the "NewFox/defaults" folder,"config.js" and "distribution" as is into Firefox main folder (where the Firefox executable is) and hit replace everything if necessarily.
+ - Type about:support in the address bar.
+ - Under "Application Basics," find "Profile Folder" and click "Open Folder" next to it.
+ - Copy the contents of the "NewFox/profile/" folder into the folder as is, replacing files if necessary.
+ - Copy the "NewFox/defaults" folder, "config.js," and "distribution" folder into the main Firefox folder (where the Firefox executable is), replacing files if necessary.
 
-### MacOS
- - Type = about:support in the search bar.
- - Under "Application Basics", find "Profile Directory" and click "Open Directory" in front of it.
- - Copy the content of the "NewFox/profile/" folder as is inside and hit replace everything if necessarily.
- - Copy the "NewFox/defaults" directory, "config.js" and "distribution" as is inside the main executable at "/Applications/Firefox.app/Contents/Resources/" and hit replace everything if necessarily.
+### macOS
+ - Type about:support in the address bar.
+ - Under "Application Basics," find "Profile Directory" and click "Open Directory" next to it.
+ - Copy the contents of the "NewFox/profile/" folder into the folder as is, replacing files if necessary.
+ - Copy the "NewFox/defaults" directory, "config.js," and "distribution" directory into the main executable folder at "/Applications/Firefox.app/Contents/Resources/", replacing files if necessary.
 
 ## step 3 - Last touch
 
 ### Linux/macOS
-- Type about:profiles
-- Find your profile (or every profile) find "Local Directory" and click "Open Directory" close Firefox and delete all files in "startupCache" Directory.
+- Type about:profiles.
+- Find your profile (or each profile), locate "Local Directory," and click "Open Directory." Close Firefox and delete all files in the "startupCache" directory.
 ### Windows
-- Type about:profiles
-- Find your profile (or every profile) find "Local Folder" and click "Open Folder" close Firefox and delete all files in "startupCache" folder.
+- Type about:profiles.
+- Find your profile (or each profile), locate "Local Folder," and click "Open Folder." Close Firefox and delete all files in the "startupCache" folder.
 
 </details>
 
@@ -78,32 +78,32 @@ A minimal Firefox theme with userContent and userChrome.
 <details><summary>Release notes</summary>
  
 1.2.3:
-- Fixed the overlapping of the upper/main searchbar caused by the firefox new update
-- Fixed the green glow active tab hover, which was getting overwritten by the new update
-- Fixed the zoom control icon not visible (also submitted the fix to the owner of those svg's)
-- Made the + buton of the new tab also rotates like the closetab X button
-- Updated the js loader which wasn't working after the new updates
+- Fixed the overlap in the upper/main search bar caused by the latest Firefox update.
+- Fixed the green active-tab hover glow, which was being overridden by the update.
+- Fixed the zoom control icon, which was not visible (I also submitted the fix to the owner of those SVGs).
+- Made the new-tab + button rotate like the close-tab X button.
+- Updated the JS loader, which stopped working after the latest updates.
 
 1.2.2:
-- Fixed the sidebard because it got broken in the 153.0.0 update
-- Also made it work on nova mode
-- Added policies.json, to enable nova and browser customization by default
+- Fixed the sidebar, which broke in version 153.0.0.
+- Also made it work in Nova mode.
+- Added policies.json to enable Nova and browser customization by default.
 
 1.2.1:
-- At version 152.0.0 firefox broke the throbber , so i had to fix it.
+- Firefox 152.0.0 broke the throbber, so I had to fix it.
 
 1.2.0:
-- Homescreen pins are now inspired by liquid glass
-- Fixed some svg´s
-- Added the toolbar animated items
+- Homescreen pins are now inspired by liquid glass.
+- Fixed some SVGs.
+- Added animated toolbar items.
 
 1.1.0:
-- Added the running Knight 
-- Added userChrome.js to apply javascript
-- Disabled some shortcuts that broke my layout (yeah instead of fixing the code i removed the firefox UI elements, call it a skill issue if you want 😇)
+- Added the running knight.
+- Added userChrome.js to apply JavaScript.
+- Disabled some shortcuts that broke my layout (yeah, instead of fixing the code, I removed the Firefox UI elements. Call it a skill issue if you want 😇).
 
 1.0.0:
-- Based Theme
+- Base theme.
 
 </details>
 
@@ -111,54 +111,54 @@ A minimal Firefox theme with userContent and userChrome.
 
 <details><summary>TODO</summary>
  
- - [ ] Fix the relative position of the Knight runner in/on the sidebar
+ - [ ] Fix the running knight's position in/on the sidebar.
  
- - [ ] Add more svg's
+ - [ ] Add more SVGs.
 
- - [ ] Holiday based decorations with automatic change ?
+ - [ ] Add holiday-themed decorations that change automatically?
  
 </details>
 
 ##
 
 > [!WARNING] 
-> At first the vertical tabs will look a little odd there are 2 solutions :
+> At first, the vertical tabs may look a little odd. There are two solutions:
 >
 > 1st =>
-> Before installing the files, make vertical tabs as small as possible, by dragging the splitter between the vertical tabs and the main screen to left.
+> Before installing the files, make the vertical tabs as small as possible by dragging the splitter between the vertical tabs and the main screen to the left.
 >
-> 2nd (Idk from which version firefox removed the seperator from the side bar, but this is for the case in which your version has it) =>
-> If you already installed the files, drag the splitter between the vertical tabs and the main screen to left and right until the running knight goes above seperator that should be under it, but this only happen if there are 3 tools maximum at you sidebar.
+> 2nd (I'm not sure which Firefox version removed the separator from the sidebar, but this is for versions that still have it) =>
+> If you have already installed the files, drag the splitter between the vertical tabs and the main screen left and right until the running knight is above the separator beneath it. This only works when there are no more than three tools in your sidebar.
 
 > [!NOTE]
-> If the weather widget is not enabled by default, do the following :
+> If the weather widget is not enabled by default, do the following:
 > 
-> Disable "personalize-button.css" in the configs (just delete the file)
-> The pencil icon will get shown up in the home screen right corner.
-> Toggled-on the weather widget then enable the file again (restore the file).
+> Disable "personalize-button.css" in the configs (just delete the file).
+> The pencil icon will appear in the top-right corner of the home screen.
+> Toggle on the weather widget, then enable the file again (restore it).
 
 > [!CAUTION]
-> The running knight is only get shown in the currect position if the firefox is maximized and the screen has a 1.25 zoom, if not it will be displaced, you can ofcurse adapt it to your screen by configuring "side-bar.css".
+> The running knight will appear in the correct position only when Firefox is maximized and the screen is at 1.25x zoom. Otherwise, it may be displaced. You can, of course, adapt it to your screen by configuring "side-bar.css".
 ##
 
-> I also used some code and assets that doesn't belong to me, expand the list below to see the direct link to there original owners.
+> I also used some code and assets that don't belong to me. Expand the list below to see links to their original owners.
 
 <details>  
 <summary>✨ <b>Sources</b> <i>[Click to expand]</i> 👇</summary>
 
-* 0.png, 1.png and 2.png are from this theme = https://addons.mozilla.org/en-US/firefox/addon/praisethesun/
+* 0.png, 1.png, and 2.png are from this theme: https://addons.mozilla.org/en-US/firefox/addon/praisethesun/
 
-* Icons folder, navbar.css and general.css are from = https://github.com/bmFtZQ/edge-frfox
+* The Icons folder, navbar.css, and general.css are from: https://github.com/bmFtZQ/edge-frfox
 
-*  Night-Swamp.jpg is the Adobe Premiere pro's 2023 splash screen = https://www.behance.net/gallery/163378813/Adobe-Premiere-Pro-Splash-Screen-2023/modules/921508831
+* Night-Swamp.jpg is from Adobe Premiere Pro's 2023 splash screen: https://www.behance.net/gallery/163378813/Adobe-Premiere-Pro-Splash-Screen-2023/modules/921508831
 
-*  The js loader is from = https://github.com/Aris-t2/CustomJSforFx
+* The JS loader is from: https://github.com/Aris-t2/CustomJSforFx
 
-*  the 4.png is from = https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character
+* 4.png is from: https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character
 
-* liquid-glass inpired by = https://freefrontend.com/css-liquid-glass/
+* The liquid-glass effect was inspired by: https://freefrontend.com/css-liquid-glass/
 
-* Coin.png and Chest.png are from = https://itch.io
+* Coin.png and Chest.png are from itch.io
 
 </details>
 
@@ -166,4 +166,4 @@ A minimal Firefox theme with userContent and userChrome.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Mr-the-beginner/NewFox&type=date&legend=top-left)](https://www.star-history.com/#Mr-the-beginner/NewFox&type=date&legend=top-left)
 
-Highest so far = 105
+Highest so far: 105
