@@ -109,6 +109,18 @@ A minimal Firefox theme with userContent and userChrome.
 
 ##
 
+<details><summary>TODO</summary>
+ 
+ - [ ] Fix the relative position of the Knight runner in/on the sidebar
+ 
+ - [ ] Add more svg's
+
+ - [ ] Holiday based decorations with automatic change ?
+ 
+</details>
+
+##
+
 > [!WARNING] 
 > At first the vertical tabs will look a little odd there are 2 solutions :
 >
@@ -126,8 +138,7 @@ A minimal Firefox theme with userContent and userChrome.
 > Toggled-on the weather widget then enable the file again (restore the file).
 
 > [!CAUTION]
-> The running knight is only get shown in the currect position if the firefox is maximized and the screen has a 1.25 zoom, if not it will be displaced, you can ofcurse adapt it to your screen by configuring "side-bar.css" (i will fix it someday)
-
+> The running knight is only get shown in the currect position if the firefox is maximized and the screen has a 1.25 zoom, if not it will be displaced, you can ofcurse adapt it to your screen by configuring "side-bar.css".
 ##
 
 > I also used some code and assets that doesn't belong to me, expand the list below to see the direct link to there original owners.
